@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: StoreDiscountApplication
+
+discount:
+  employee: 0.3
+  affiliate: 0.1
+  customer: 0.05
+  flat: 5
+  flat-threshold: 100
+
+
+
